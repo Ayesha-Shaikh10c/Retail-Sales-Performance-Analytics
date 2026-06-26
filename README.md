@@ -84,7 +84,7 @@ Week 4 — Dashboard & Portfolio
 
 ## 🚀 How to Run This Project
 
-1. Clone this repository: git clone https://github.com/Ayesha-Shaikh10c/Retail-Sales-Performance-Analytics-Dashboard.git
+1. Clone this repository: git clone https://github.com/Ayesha-Shaikh10c/Retail-Sales-Performance-Analytics.git
 2. Install Python dependencies: pip install pandas matplotlib seaborn sqlalchemy psycopg2
 3. Open notebooks in Jupyter to review data cleaning and EDA steps
 4. Execute SQL queries:
