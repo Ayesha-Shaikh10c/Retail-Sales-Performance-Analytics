@@ -28,17 +28,18 @@ Goal: Identify what's driving revenue, where the business is losing money, and w
 ---
 
 ## 📁 Repository Structure
+```
 ├── data/                   # Original and cleaned datasets
 ├── notebooks/              # Jupyter notebooks (Weeks 1 & 3)
 │   ├── Week1_Data_Cleaning.ipynb
 │   └── Week3_EDA_Visualizations.ipynb
-├── sql_queries/            # All SQL analysis queries
+├── sql_queries/             # All SQL analysis queries
 │   └── sql_queries.sql
-├── dashboard/              # Power BI file and screenshot
+├── dashboard/               # Power BI file and screenshot
 │   ├── Retail_Sales_Dashboard.pbix
 │   └── dashboard_screenshot.png
 └── README.md
----
+```
 
 ## 🔄 Project Workflow
 
@@ -64,7 +65,8 @@ Week 4 — Dashboard & Portfolio
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot]
+<img width="963" height="546" alt="Dashboard" src="https://github.com/user-attachments/assets/aeb15152-d35e-4785-8d9d-444db836c917" />
 
 ---
 
